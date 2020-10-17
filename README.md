@@ -5,4 +5,4 @@ Detection of Cows is quite challenging for the Azur detection algorithm because 
 The detection model was trained with 25 manually labeled images from the video, but from a section not used to test the model. The detection algorithm therefor has never seen the frames from the video before.
 
 Check out the result:
-![Alt Text](https://github.com/webebe/Custom-Vision-Cow-Counter/blob/master/cows1.gif)
+![Alt Text](https://github.com/webebe/Custom-Vision-Cow-Counter/blob/main/cows1.gif)
